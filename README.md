@@ -1,2 +1,2 @@
 # Pedestrian-detection
-行人检测
+A warehouse for pedestrian detection
